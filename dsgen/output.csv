@@ -1,0 +1,15 @@
+rec_id, rec2_id, culture, sex, age, date_of_birth, title, given_name, surname, state, suburb, postcode, street_number, address_1, address_2, phone_number, soc_sec_id, blocking_number, family_role
+rec-11-org,   rec-4-org, usa, , 22, 19980629, , elisha, snow, vic, ashwood, 3088, 60, hinkler street, , 08 51312371, 140, 4, NoRole
+rec-7-org,   rec-6-org_h-1, ger, f, 37, 19830619, mrs , hiltraud, erdei, vic, yambuk, 5114, 3, ovensstreet, glenmorecottage , 863355494 , 129, 7, NoRole
+rec-5-dup-0, rec-7-org, ita, f, , 19630910, , liam, canalo, nsw, berala, 2117, 510, howie court, , 2 80451577, 187, 3, NoRole
+rec-4-org,   rec-8-org, , m, 20, 20000707, hon, madeleine, blackwell, qld, bellbowrie, 3162, 417, , , 3 13989169, 160, 4, NoRole
+rec-5-org,   rec-7-org, ita, f, , 19630910, , liam, canalo, nsw, berala, 2117, 6, howie court, , 2 80451577, 187, 3, NoRole
+rec-0-org,   rec-9-org, rom, f, , 19211012, , jacob, serbanescu, qld, wrattens forest, 3168, 1, carina street, ronita, 03 22801176, 160, 1, NoRole
+rec-9-org,   rec-1-org, afg, f, 25, 19950827, , eleni, dalazak, vic, ringwood east, 2211, 8, holman street, villa 3, 8 31010578, 176, 7, NoRole
+rec-8-org,   rec-5-org, eng, , 32, 19880821, , jye, roydon, nsw, acacia gardens, 3121, 54, de graaff street, bellambi, 2 12243174, 141, 3, NoRole
+rec-5-dup-1, rec-7-org, ita, d, , 19630910, , liam, canalo, nsks, berala, 2117, 6, howie court, , 2 80451577, 187, 3, NoRole
+rec-3-org,   rec-2-org, ind, f, 21, 19991112, , meg, kooner, nsw, , 4017, 16, , , 2 74275150, 141, 3, NoRole
+rec-6-org,   rec-3-org, ita, , 21, 19991102, ms, kyle, fonzi, wa, sandpatch, 5041, 4, bissenberger crescent, aptmnt 42, 08 14584371, 162, 8, NoRole
+rec-10-org,   rec-6-org_h-0, ger, m, 26, 19940114, mr , knut, lz, vic, yambuk, 5114, 3, ovensstreet, glenmorecottage , 863355494, 179, 5, NoRole
+rec-2-org,   rec-6-org, ger, m, 29, 19910110, ms, emiily, guendler, vic, yambuk, 5114, 3, ovens street, glenmore cottage, 8 63355494, 182, 3, Org-Household
+rec-1-org,   rec-0-org, eng, f, 31, 19890306, sgt, ella, bullard, sa, salisbury park, 3451, 38, terewah circuit, cannells hill, 617 54612136, 180, 9, NoRole
