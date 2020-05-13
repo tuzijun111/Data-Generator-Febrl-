@@ -8,12 +8,12 @@ Example:
 python2 generate2.py 10000.csv 4000 6000 9 4 6 uniform all 0 
 
 The meaning of these parameters (parameters after generate2.py) are as follows:
-  - Output file name'
-  - Number of original records'
-  - Number of duplicate records'
-  - Maximal number of duplicate records for one original record'
-  - Maximum number of modifications per field'
-  - Maximum number of modifications per record'
-  - Probability distribution for duplicates (uniform, poisson, zipf)'
-  - Type of modification (typo, ocr, phonetic, all)'
-  - Number of households and family records'
+  - Output file name
+  - Number of original records
+  - Number of duplicate records
+  - Maximal number of duplicate records for one original record
+  - Maximum number of modifications per field
+  - Maximum number of modifications per record
+  - Probability distribution for duplicates (uniform, poisson, zipf)
+  - Type of modification (typo, ocr, phonetic, all)
+  - Number of households and family records
